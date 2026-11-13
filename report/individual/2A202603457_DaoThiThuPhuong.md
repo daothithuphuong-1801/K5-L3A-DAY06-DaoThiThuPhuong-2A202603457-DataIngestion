@@ -75,16 +75,26 @@ Tiêu chí đề xuất là ưu tiên Evidence Hit@3 trên Dev, sau đó xem xé
 Chưa có bằng chứng trong log xác nhận các tiêu chí này đã được chốt trước khi xem tập Test. Vì vậy, không khẳng định đây là quy tắc lựa chọn đã đăng ký trước thí nghiệm.
 
 ## Kết quả
+
+## Kết quả
+
 | Strategy | Split | Hit@1 (n/N) | Evidence Hit@3 (n/N) | Chunk count | Thời gian | Chi phí |
-|A|Dev|8/15 (53.33%)|10/15 (66.67%)|479|19.857s|$0|
-|A|Test|2/5 (40%)|2/5 (40%)|479|19.857s|$0|
-|B|Dev|5/15 (33.33%)|7/15 (46.67%)|623|19.399s|$0|
-|B|Test|0/5 (0%)|2/5 (40%)|623|19.399s|$0|
-|C|Dev|5/15 (33.33%)|7/15 (46.67%)|623|19.403s|$0|
-|C|Test|0/5 (0%)|2/5 (40%)|623|19.403s|$0|
+|---|---|---|---|---|---|---|
+| A | Dev | 8/15 (53.33%) | 10/15 (66.67%) | 479 | 19.857s | $0 |
+| A | Test | 2/5 (40%) | 2/5 (40%) | 479 | 19.857s | $0 |
+| B | Dev | 5/15 (33.33%) | 7/15 (46.67%) | 623 | 19.399s | $0 |
+| B | Test | 0/5 (0%) | 2/5 (40%) | 623 | 19.399s | $0 |
+| C | Dev | 5/15 (33.33%) | 7/15 (46.67%) | 623 | 19.403s | $0 |
+| C | Test | 0/5 (0%) | 2/5 (40%) | 623 | 19.403s | $0 |
+
+### Kết quả Manual Audit
 
 | Strategy | Coherence trung bình /2 (n) | Metadata đủ và đúng (n/N) | Filter tuân thủ (n/N hoặc N/A) | Grounding 0/1/2 (số câu) và trung bình /2 |
 |---|---|---|---|---|
+| A | 1.10 (10) | 15/15 | N/A | 1 / 0 / 4; TB: 1.60/2 |
+| B | 0.90 (10) | 15/15 | N/A | 1 / 1 / 3; TB: 1.40/2 |
+| C | 0.90 (10) | 15/15 | 2/2 | 1 / 1 / 3; TB: 1.40/2 |
+
 
 Đường dẫn trace, nhãn thủ công và cách chọn mẫu:
 
