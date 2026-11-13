@@ -1,4 +1,5 @@
+
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed,500,50,document_id/source/page + corpus fields,no,paraphrase-multilingual-MiniLM-L12-v2,Fixed windows may split evidence,0.5333,0.6667,0.4000,0.4000,Completed - 479 chunks
+B,paragraph,500,0,same as A,no,paraphrase-multilingual-MiniLM-L12-v2,Paragraph boundaries may improve coherence,0.3333,0.4667,0.0000,0.4000,Completed - 623 chunks
+C,paragraph,500,0,same as B,only if provided by question,paraphrase-multilingual-MiniLM-L12-v2,Filters may improve scope precision,0.3333,0.4667,0.0000,0.4000,Completed - 623 chunks

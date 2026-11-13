@@ -1,0 +1,3986 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "How is economics defined in the textbook?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "cc9d19a7d48d244b2dd3cadd",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 15,
+        "text": "lly, you now have an idea about economics. Before you move to any other chapter of study, be sure to\nread the very important appendix to this chapter called The Use of Mathematics in Principles of Economics. It\nis essential that you learn more about how to read and use models in economics.\n\nBRING IT HOME\n\nInformation Overload in the Information Age\nThe world provides nearly instant access to a wealth of information. Consider that as recently as the late 1970s, the\nFarmer’sAlmanac, along with the",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.6776472532048006
+      },
+      {
+        "chunk_id": "aacaf8686ec832b0d6440aec",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 16,
+        "text": " Concepts and Summary\n\n1.1 What Is Economics, and Why Is It Important?\n\nEconomics seeks to solve the problem of scarcity, which is when human wants for goods and services exceed\nthe available supply. A modern economy displays a division of labor, in which people earn income by\nspecializing in what they produce and then use that income to purchase the products they need or want. The\ndivision of labor allows individuals and firms to specialize and to produce more for several reasons: a) It allows\n",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.6771600842475891
+      },
+      {
+        "chunk_id": "5f30f8593d904f0dd9dd81bc",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 6,
+        "text": "14 1 • Welcome to Economics!\n\nWhy Study Economics?\n\nFIGURE 1.5 Esther Duflo, Abhijit Banerjee, and Michael Kremer Esther Duflo, Abhijit Banerjee (both from\nMassachusetts Institute of Technology), and Michael Kremer (University of Chicago) were awarded the Nobel Prize\nfor groundbreaking work in which they established experimental methods to understand poverty and outcomes of\ninitiatives to address it. (Credit: modification of work by U.S. Embassy Sweden/Wikimedia Commons, CC BY 2.0;\nFinancial Tim",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.6299129879370958
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 2,
+        "evidence_quote": "Economics is the study of how humans make decisions in the face of scarcity."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What does scarcity mean in economics?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "c5e7c36a943e19b946697d83",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 2,
+        "text": "is a fact of life. Scarcity means that human wants for goods, services and resources exceed what\nis available. Resources, such as labor, tools, land, and raw materials are necessary to produce the goods and\nservices we want but they exist in limited supply. Of course, the ultimate scarce resource is time- everyone,\nrich or poor, has just 24 expendable hours in the day to earn income to acquire goods and services, for leisure\ntime, or for sleep. At any point in time, there is only a finite amount",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7436423301696777
+      },
+      {
+        "chunk_id": "aacaf8686ec832b0d6440aec",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 16,
+        "text": " Concepts and Summary\n\n1.1 What Is Economics, and Why Is It Important?\n\nEconomics seeks to solve the problem of scarcity, which is when human wants for goods and services exceed\nthe available supply. A modern economy displays a division of labor, in which people earn income by\nspecializing in what they produce and then use that income to purchase the products they need or want. The\ndivision of labor allows individuals and firms to specialize and to produce more for several reasons: a) It allows\n",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.6952593326568604
+      },
+      {
+        "chunk_id": "9614df58870b8d39f40b0830",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 20,
+        "text": "a world of scarcity, they cannot have all the time, money, possessions, and experiences\nthey wish. Neither can society.\n\nThis chapter will continue our discussion of scarcity and the economic way of thinking by first introducing\nthree critical concepts: opportunity cost, marginal decision making, and diminishing returns. Later, it will\nconsider whether the economic way of thinking accurately describes either how we make choices and how we\nshould make them.\n2.1 How Individuals Make Choices Based ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.611028790473938
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 2,
+        "evidence_quote": "Scarcity means that human wants for goods, services and resources exceed what is available."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What contribution to the division of labor is attributed to Adam Smith?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "329023ad53004a29031f5a90",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 4,
+        "text": "12 1 • Welcome to Economics!\n\nFIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks. (Credit: \"Adam\nSmith\" by Cadell and Davies (1811), John Horsburgh (1828), or R.C. Bell (1872)/Wikimedia Commons, Public\nDomain)\n\nThe Division of and Specialization of Labor\n\nThe formal study of economics began when Adam Smith (1723–1790) published his famous book TheWealth\nofNations in 1776. Many authors had written on economics in the centuries before Smith, but he was the f",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7540037563448785
+      },
+      {
+        "chunk_id": "16392a639360949da0e84c94",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 4,
+        "text": "cs in the centuries before Smith, but he was the first\nto address the subject in a comprehensive way. In the first chapter, Smith introduces the concept of division of\nlabor, which means that the way one produces a good or service is divided into a number of tasks that\ndifferent workers perform, instead of all the tasks being done by the same person.\n\nTo illustrate division of labor, Smith counted how many tasks went into making a pin: drawing out a piece of\nwire, cutting it to the right length,",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7163331935604342
+      },
+      {
+        "chunk_id": "d7e874be97d99baac371957c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 5,
+        "text": "1.1 • What Is Economics, and Why Is It Important? 13\n\nWhy the Division of Labor Increases Production\n\nWhen we divide and subdivide the tasks involved with producing a good or service, workers and businesses\ncan produce a greater quantity of output. In his observations of pin factories, Smith noticed that one worker\nalone might make 20 pins in a day, but that a small business of 10 workers (some of whom would need to\ncomplete two or three of the 18 tasks involved with pin-making), could make 48,0",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.5800841373280412
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 4,
+        "evidence_quote": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What are economic theories based on when economists analyze issues?",
+    "filter": {
+      "section": "chapter_1"
+    },
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "10f984d67f54c12a76f62110",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 9,
+        "text": "1.3 • How Economists Use Theories and Models to Understand Economic Issues 17\n\nEconomists see the world through a different lens than anthropologists, biologists, classicists, or practitioners\nof any other discipline. They analyze issues and problems using economic theories that are based on\nparticular assumptions about human behavior. These assumptions tend to be different than the assumptions\nan anthropologist or psychologist might use. A theory is a simplified representation of how two or mor",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.8246693506639808
+      },
+      {
+        "chunk_id": "ab2384a05cb7351f9e882bf3",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 17,
+        "text": " these goals: monetary\npolicy and fiscal policy.\n\n1.3 How Economists Use Theories and Models to Understand Economic Issues\n\nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use\nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a\ntool for determining the answer.\n\n1.4 How To Organize Economies: An Overview of Economic Systems\n\nWe can organize societies as traditional, command, or mar",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7814906602653695
+      },
+      {
+        "chunk_id": "3b3cc2370ba512507f28af1a",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 10,
+        "text": "use the theory to derive insights about the issue or problem. Economists express theories as diagrams,\ngraphs, or even as mathematical equations. (Do not worry. In this course, we will mostly use graphs.)\nEconomists do not figure out the answer to the problem first and then draw the graph to illustrate. Rather, they\nuse the graph of the theory to help them figure out the answer. Although at the introductory level, you can\nsometimes figure out the right answer without applying a model, if you kee",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7732167609567446
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 9,
+        "evidence_quote": "They analyze issues and problems using economic theories that are based on particular assumptions about human behavior."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Which parts of the economy does microeconomics focus on?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "aed48de5874318032e00bedc",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 7,
+        "text": "It should be clear by now that economics covers considerable ground. We can divide that ground into two\nparts: Microeconomics focuses on the actions of individual agents within the economy, like households,\nworkers, and businesses. Macroeconomics looks at the economy as a whole. It focuses on broad issues such as\ngrowth of production, the number of unemployed people, the inflationary increase in prices, government\ndeficits, and levels of exports and imports. Microeconomics and macroeconomics are",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.8372161041860615
+      },
+      {
+        "chunk_id": "649710846da9b55234c21b0a",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 17,
+        "text": "1 • Self-Check Questions 25\n\n1.2 Microeconomics and Macroeconomics\n\nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic\nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic\nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living,\nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary\npolicy and fiscal policy.\n\n",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.771640419960022
+      },
+      {
+        "chunk_id": "db6573e79a71df2cdc8f25c3",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 7,
+        "text": "and imports. Microeconomics and macroeconomics are not separate subjects,\nbut rather complementary perspectives on the overall subject of the economy.\n\nTo understand why both microeconomic and macroeconomic perspectives are useful, consider the problem of\nstudying a biological ecosystem like a lake. One person who sets out to study the lake might focus on specific\ntopics: certain kinds of algae or plant life; the characteristics of particular fish or snails; or the trees\nsurrounding the lake. An",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7312831878662109
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 17,
+        "evidence_quote": "The microeconomic perspective focuses on parts of the economy: individuals, firms, and industries."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What does opportunity cost describe?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "4802abece5574e0f581a0021",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 21,
+        "text": " Since bus tickets cost 50 cents, Alphonso would have to give up four to afford one more\nburger. That is the true cost to Alphonso.\n\nThe Concept of Opportunity Cost\n\nEconomists use the term opportunity cost to indicate what people must give up to obtain what they desire.\nThe idea behind opportunity cost is that the cost of one item is the lost opportunity to do or consume\nsomething else. In short, opportunity cost is the value of the next best alternative. For Alphonso, the\nopportunity cost of a",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.6417662287811189
+      },
+      {
+        "chunk_id": "3eea0a3da673c36a8919ae7f",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 23,
+        "text": " $0.50/$2 = 0.25. If you want to determine the opportunity cost quickly, just divide the\ntwo prices.\n\nIdentifying Opportunity Cost\n\nIn many cases, it is reasonable to refer to the opportunity cost as the price. If your cousin buys a new bicycle for\n$300, then $300 measures the amount of “other consumption” that he has forsaken. For practical purposes,\nthere may be no special need to identify the specific alternative product or products that he could have bought\nwith that $300, but sometimes the ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.5836674148937292
+      },
+      {
+        "chunk_id": "012b798fc1a6f6443d49c52c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": "36 2 • Choice in a World of Scarcity\n\nrelatively large gains. On the other hand, if a large number of resources are already committed to education,\nthen committing additional resources will bring relatively smaller gains.\n\nThis pattern is common enough that economists have given it a name: the law of increasing opportunity cost,\nwhich holds that as production of a good or service increases, the marginal opportunity cost of producing it\nincreases as well. This happens because some resources are b",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.5730198792523112
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 21,
+        "evidence_quote": "The Concept of Opportunity Cost Economists use the term opportunity cost to indicate what people must give up to obtain what they desire."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Does the text emphasize similarities or differences between individual and social choice?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "73ab525beef61ea1d437f80d",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 26,
+        "text": "iciency\n• Define comparative advantage\n\nJust as individuals cannot have everything they want and must instead make choices, society as a whole\ncannot have everything it might want, either. This section of the chapter will explain the constraints society\nfaces, using a model called the production possibilities frontier (PPF). There are more similarities than\ndifferences between individual choice and social choice. As you read this section, focus on the similarities.\n\nBecause society has limited r",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.4859885863058926
+      },
+      {
+        "chunk_id": "bef3cefca6686412a23bb899",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 33,
+        "text": "iety as a whole\noperate. Both diagrams show the tradeoff in choosing more of one good at the cost of less of the other.\n\nThird, self-interested behavior can lead to positive social results. For example, when people work hard to make\na living, they create economic output. Consumers who are looking for the best deals will encourage businesses\nto offer goods and services that meet their needs. Adam Smith, writing in TheWealthofNations, named this\nproperty the invisible hand. In describing how consu",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.47554200741899144
+      },
+      {
+        "chunk_id": "0b49076b4a636e4162420004",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 34,
+        "text": "introduced at the start of the chapter reveal information about intertemporal choices. An\neconomist might say that people choose not to obtain a college degree because they may have to borrow money to\nattend college, and the interest they have to pay on that loan in the future will affect their decisions today. Also, it\ncould be that some people have a preference for current consumption over future consumption, so they choose to\nwork now at a lower salary and consume now, rather than postponing ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.4474155871519805
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 26,
+        "evidence_quote": "There are more similarities than differences between individual choice and social choice."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What is productive efficiency?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      false,
+      true
+    ],
+    "hits": [
+      {
+        "chunk_id": "a889861cb458650c13349019",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": "a production possibilities frontier between healthcare and\neducation.\n\nFIGURE 2.4 Productive and Allocative Efficiency Productive efficiency means it is impossible to produce more of\none good without decreasing the quantity that is produced of another good. Thus, all choices along a given PPF like\nB, C, and D display productive efficiency, but R does not. Allocative efficiency means that the particular mix of goods\nbeing produced—that is, the specific choice along the production possibilities fr",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.730396823263359
+      },
+      {
+        "chunk_id": "aa9a35cc9968bb76d2ea2145",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": " operates at high cost, while an\nefficient machine operates at lower cost, because it is not wasting energy or materials. An inefficient\norganization operates with long delays and high costs, while an efficient organization meets schedules, is\nfocused, and performs within budget.\n\nThe production possibilities frontier can illustrate two kinds of efficiency: productive efficiency and allocative\nefficiency. Figure 2.4 illustrates these ideas using a production possibilities frontier between health",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.6668048103568083
+      },
+      {
+        "chunk_id": "0c3b513aae5d79b98c200c26",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": "2.2 • The Production Possibilities Frontier and Social Choices 37\n\nProductive efficiency means that, given the available inputs and technology, it is impossible to produce more\nof one good without decreasing the quantity that is produced of another good. All choices on the PPF in Figure\n2.4, including A, B, C, D, and F, display productive efficiency. As a firm moves from any one of these choices to\nany other, either healthcare increases and education decreases or vice versa. However, any choice ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.66160243749619
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 29,
+        "evidence_quote": ".2 • The Production Possibilities Frontier and Social Choices 37 Productive efficiency means that, given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity that is produced of another good."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What type of analysis is illustrated by evaluating a subway project’s benefits and costs?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "5e75dbea7d75b0553073c1ad",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 32,
+        "text": "40 2 • Choice in a World of Scarcity\n\nopinion. We cannot test them since we cannot prove opinions to be true or false. They just are opinions based\non one's values. For example, an economist could analyze a proposed subway system in a certain city. If the\nexpected benefits exceed the costs, he concludes that the project is worthy—an example of positive analysis.\nAnother economist argues for extended unemployment compensation during the COVID-19 pandemic\nbecause a rich country like the United Sta",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.5747946843382539
+      },
+      {
+        "chunk_id": "bf6fcaabeec28a0bbbeea327",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 24,
+        "text": " often we look at total costs and total benefits, when the optimal\nchoice necessitates comparing how costs and benefits change from one option to another. You might think of\nmarginal analysis as “change analysis.” Marginal analysis is used throughout economics.\n\nWe now turn to the notion of utility. People desire goods and services for the satisfaction or utility those goods\nand services provide. Utility, as we will see in the chapter on Consumer Choices, is subjective but that does not\nmake it ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.4792824387550354
+      },
+      {
+        "chunk_id": "00d704c548df7da8a1f62903",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 2,
+        "text": "NING OBJECTIVES\nBy the end of this section, you will be able to:\n• Discuss the importance of studying economics\n• Explain the relationship between production and division of labor\n• Evaluate the significance of scarcity\n\nEconomics is the study of how humans make decisions in the face of scarcity. These can be individual\ndecisions, family decisions, business decisions or societal decisions. If you look around carefully, you will see\nthat scarcity is a fact of life. Scarcity means that human wants",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.47156560590472263
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 32,
+        "evidence_quote": "If the expected benefits exceed the costs, he concludes that the project is worthy—an example of positive analysis."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What does allocative efficiency mean?",
+    "filter": {
+      "section": "chapter_2"
+    },
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "d11b1878af178e062ba07dc7",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 35,
+        "text": "2 • Key Terms 43\n\nKey Terms\n\nallocative efficiency when the mix of goods produced represents the mix that society most desires\nbudget constraint all possible consumption combinations of goods that someone can afford, given the prices\nof goods, when all income is spent; the boundary of the opportunity set\ncomparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a\ncountry has a lower opportunity cost of production\ninvisible hand Adam Smith's concept",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.6878575086593628
+      },
+      {
+        "chunk_id": "904f21935abb9a44408e070a",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": " (and less healthcare) would have a flatter ray.\n\nAllocative efficiency means that the particular combination of goods and services on the production\npossibility curve that a society produces represents the combination that society most desires. How to\ndetermine what a society desires can be a controversial question, and is usually a discussion in political\nscience, sociology, and philosophy classes as well as in economics. At its most basic, allocative efficiency\nmeans producers supply the quan",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.6333143899832487
+      },
+      {
+        "chunk_id": "0a0b583de3dc7ac4fec346a3",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": "ocative efficiency\nmeans producers supply the quantity of each product that consumers demand. Only one of the productively\nefficient choices will be the allocatively efficient choice for society as a whole.\n\nWhy Society Must Choose\n\nIn Welcome to Economics! we learned that every society faces the problem of scarcity, where limited resources\nconflict with unlimited needs and wants. The production possibilities curve illustrates the choices involved in\nthis dilemma.\n\nEvery economy faces two situat",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.6324731707572937
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 35,
+        "evidence_quote": "allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that"
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "What is quantity demanded?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "269b5174a179d4e6f8d25860",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 42,
+        "text": "rve and\nquantity demanded refers to a (specific) point on the curve.\n\nSupply of Goods and Services\n\nWhen economists talk about supply, they mean the amount of some good or service a producer is willing to\nproduce and/or bring to market at each price. Price is what the producer receives for selling one unit of a good\nor service. A rise in price almost always leads to an increase in the quantity supplied of that good or service,\nwhile a fall in price will decrease the quantity supplied. When the p",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6835871934890747
+      },
+      {
+        "chunk_id": "39e03ec1ff9f8b2210793793",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 70,
+        "text": "nd in which quantity demanded\nrises and income falls\ninputs the resources such as labor, materials, and machinery that are used to produce goods and services;\nalso called factors of production\nlaw of demand the common relationship that a higher price leads to a lower quantity demanded of a certain\ngood or service and a lower price leads to a higher quantity demanded, while all other variables are held\nconstant\nlaw of supply the common relationship that a higher price leads to a greater quantity ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.682480495123894
+      },
+      {
+        "chunk_id": "2758b6a47c1d7d6010f144e7",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 42,
+        "text": "s quantity demanded?\nIn economic terminology, demand is not the same as quantity demanded. When economists talk about demand,\nthey mean the relationship between a range of prices and the quantities demanded at those prices, as illustrated by\na demand curve or a demand schedule. When economists talk about quantity demanded, they mean only a certain\npoint on the demand curve, or one quantity on the demand schedule. In short, demand refers to the curve and\nquantity demanded refers to a (specific) p",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6714665293693542
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 41,
+        "evidence_quote": "The total number of units that consumers would purchase at that price is called the quantity demanded."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What relationship does the law of demand describe?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "cae2cda7f611e1148574b7ef",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 40,
+        "text": "omists use the term demand to refer to the amount of some good or service consumers are willing and\nable to purchase at each price. Demand is fundamentally based on needs and wants—if you have no need or\nwant for something, you won't buy it. While a consumer may be able to differentiate between a need and a\nwant, from an economist’s perspective they are the same thing. Demand is also based on ability to pay. If you\ncannot pay for it, you have no effective demand. By this definition, a person who",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7222043921534177
+      },
+      {
+        "chunk_id": "2758b6a47c1d7d6010f144e7",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 42,
+        "text": "s quantity demanded?\nIn economic terminology, demand is not the same as quantity demanded. When economists talk about demand,\nthey mean the relationship between a range of prices and the quantities demanded at those prices, as illustrated by\na demand curve or a demand schedule. When economists talk about quantity demanded, they mean only a certain\npoint on the demand curve, or one quantity on the demand schedule. In short, demand refers to the curve and\nquantity demanded refers to a (specific) p",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6713582677458696
+      },
+      {
+        "chunk_id": "39e03ec1ff9f8b2210793793",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 70,
+        "text": "nd in which quantity demanded\nrises and income falls\ninputs the resources such as labor, materials, and machinery that are used to produce goods and services;\nalso called factors of production\nlaw of demand the common relationship that a higher price leads to a lower quantity demanded of a certain\ngood or service and a lower price leads to a higher quantity demanded, while all other variables are held\nconstant\nlaw of supply the common relationship that a higher price leads to a greater quantity ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6626357630057053
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 42,
+        "evidence_quote": "The downward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices and quantity demanded."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Is supply the same as quantity supplied?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "df2db21bdb0df89cf08c7814",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 43,
+        "text": "3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services 51\n\nCLEAR IT UP\n\nIs supply the same as quantity supplied?\nIn economic terminology, supply is not the same as quantity supplied. When economists refer to supply, they mean\nthe relationship between a range of prices and the quantities supplied at those prices, a relationship that we can\nillustrate with a supply curve or a supply schedule. When economists refer to quantity supplied, they mean only a\ncertain point on the supply ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7705234245245794
+      },
+      {
+        "chunk_id": "d0f9e1bdf775d5969e7aec8b",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 42,
+        "text": "as stations open longer hours. Economists call this positive relationship between\nprice and quantity supplied—that a higher price leads to a higher quantity supplied and a lower price leads to a\nlower quantity supplied—the law of supply. The law of supply assumes that all other variables that affect\nsupply (to be explained in the next module) are held constant.\n\nStill unsure about the different types of supply? See the following Clear It Up feature.\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6904550833323747
+      },
+      {
+        "chunk_id": "15d2d756d16b978ebc09b113",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 44,
+        "text": "allon, the quantity supplied increases\nfrom 500 gallons to 720 gallons. Conversely, as the price falls, the quantity supplied decreases.\n\nEquilibrium—Where Demand and Supply Intersect\n\nBecause the graphs for demand and supply curves both have price on the vertical axis and quantity on the\nhorizontal axis, the demand curve and supply curve for a particular good or service can appear on the same\ngraph. Together, demand and supply determine the price and the quantity that will be bought and sold in",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6839167491123181
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 43,
+        "evidence_quote": "In economic terminology, supply is not the same as quantity supplied."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What happens to quantity demanded and supplied in a shortage?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "11f561515422b583b1f3b359",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 70,
+        "text": "\nprice level\nexcess demand at the existing price, the quantity demanded exceeds the quantity supplied; also called a\nshortage\nexcess supply at the existing price, quantity supplied exceeds the quantity demanded; also called a surplus\nfactors of production the resources such as labor, materials, and machinery that are used to produce goods\nand services; also called inputs\ninferior good a good in which the quantity demanded falls as income rises, and in which quantity demanded\nrises and income fal",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7405349766889242
+      },
+      {
+        "chunk_id": "3473b01528e6b40dd31bddc9",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 64,
+        "text": "not allowed to rise to the equilibrium level, quantity demanded exceeds quantity supplied, and\nthus a shortage occurs. Those who manage to purchase the product at the lower price given by the price ceiling\nwill benefit, but sellers of the product will suffer, along with those who are not able to purchase the product at\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.715429961681366
+      },
+      {
+        "chunk_id": "39e03ec1ff9f8b2210793793",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 70,
+        "text": "nd in which quantity demanded\nrises and income falls\ninputs the resources such as labor, materials, and machinery that are used to produce goods and services;\nalso called factors of production\nlaw of demand the common relationship that a higher price leads to a lower quantity demanded of a certain\ngood or service and a lower price leads to a higher quantity demanded, while all other variables are held\nconstant\nlaw of supply the common relationship that a higher price leads to a greater quantity ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6986513554246054
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 46,
+        "evidence_quote": "4 3 • Demand and Supply When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which has been depressed by the lower price."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What happens to demand for an inferior good when income increases?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "68ca888bae7afab53c1682e3",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 50,
+        "text": "w, shift the curve through the new point. You will see that an increase in income causes an upward (or\nrightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as Figure 3.8\nillustrates.\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7084166829834404
+      },
+      {
+        "chunk_id": "11f561515422b583b1f3b359",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 70,
+        "text": "\nprice level\nexcess demand at the existing price, the quantity demanded exceeds the quantity supplied; also called a\nshortage\nexcess supply at the existing price, quantity supplied exceeds the quantity demanded; also called a surplus\nfactors of production the resources such as labor, materials, and machinery that are used to produce goods\nand services; also called inputs\ninferior good a good in which the quantity demanded falls as income rises, and in which quantity demanded\nrises and income fal",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6513836383819627
+      },
+      {
+        "chunk_id": "d0eef79bf273024a48fa6a8a",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 48,
+        "text": "ations in Europe, and fine jewelry—the effect of a rise in\nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is\ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6435539297525799
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 49,
+        "evidence_quote": "A product whose demand falls when income rises, and vice versa, is called an inferior good."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "How do lower production costs affect the supply curve?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "1ebde037ff000573562fc9e6",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 55,
+        "text": " curve so that at any price, the quantities supplied will be smaller, as Figure 3.14\nillustrates.\n\nFIGURE 3.14 Supply Curve Shifts When the cost of production increases, the supply curve shifts upwardly to a\nnew price level.\n\nSumming Up Factors That Change Supply\n\nChanges in the cost of inputs, natural disasters, new technologies, and the impact of government decisions all\naffect the cost of production. In turn, these factors affect how much firms are willing to supply at any given\nprice.\n\nFigur",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7495194896912426
+      },
+      {
+        "chunk_id": "cdff7b468e230befe1c2168b",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 53,
+        "text": "es reduce the cost of production and\nincrease supply at every given price, shifting supply to the right. The following Work It Out feature shows how\nthis shift happens.\n\nWORK IT OUT\n\nShift in Supply\nWe know that a supply curve shows the minimum price a firm will accept to produce a given quantity of output.\nWhat happens to the supply curve when the cost of production goes up? Following is an example of a shift in\nsupply due to a production cost increase. (We’ll introduce some other concepts rega",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6859137620304159
+      },
+      {
+        "chunk_id": "5d856b5c76c2cfb91ae4e8df",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 53,
+        "text": "0 to S2, means that at all prices, the quantity supplied has increased. In this\nexample, at a price of $20,000, the quantity supplied increases from 18 million on the original supply curve\n(S0) to 19.8 million on the supply curve S2, which is labeled M.\n\nOther Factors That Affect Supply\n\nIn the example above, we saw that changes in the prices of inputs in the production process will affect the cost\nof production and thus the supply. Several other things affect the cost of production, too, such a",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6624468564987183
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 52,
+        "evidence_quote": "When costs of production fall, a firm will tend to supply a larger quantity at any given price for its output."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "What is the first step in the four-step equilibrium analysis?",
+    "filter": {
+      "section": "chapter_3"
+    },
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "3716c61359ad171e700ec47d",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 60,
+        "text": "ostal services to shift to the left, from D0 to D1.\n\nStep 4. Compare the new equilibrium price and quantity to the original equilibrium price. The new equilibrium\n(E2) occurs at a lower quantity and a lower price than the original equilibrium (E0).\n\nThe final step in a scenario where both supply and demand shift is to combine the two individual analyses to\ndetermine what happens to the equilibrium quantity and price. Graphically, we superimpose the previous two\ndiagrams one on top of the other, ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6450973345368309
+      },
+      {
+        "chunk_id": "ec0ea55d1c409c2d582b89d2",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 56,
+        "text": " economic circumstances.\n3.3 Changes in Equilibrium Price and Quantity: The Four-Step Process\n\nLEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Identify equilibrium price and quantity through the four-step process\n• Graph equilibrium price and quantity\n• Contrast shifts of demand or supply and movements along a demand or supply curve\n• Graph demand and supply curves, including equilibrium price and quantity, based on real-world\nexamples\n\nLet’s begin this discussion with a s",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6145827953393103
+      },
+      {
+        "chunk_id": "eaca917c0cbdca7ec26022fc",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 60,
+        "text": "d quantity to the original equilibrium price. The new equilibrium\n(E1) occurs at a lower quantity and a higher price than the original equilibrium (E0).\n\nFigure 3.18 (b) shows the shift in demand in the following steps.\n\nStep 1. Draw a demand and supply model to illustrate what the market for U.S. Postal Services looked like\nbefore this scenario starts. The demand curve D0 and the supply curve S0 show the original relationships. Note\nthat this diagram is independent from the diagram in panel (a)",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6070725683613162
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 56,
+        "evidence_quote": "Step 1. Draw a demand and supply model before the economic change took place."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "How does the textbook define a price ceiling?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "cf22f4c984c2db2f1dda8c33",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 63,
+        "text": "rk to analyze\nprice ceilings. The next section discusses price floors.\n\nA price ceiling is a legal maximum price that one pays for some good or service. A government imposes price\nceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during\nHurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for\nprice controls on bottled water to prevent the price from rising so high. In this particular case",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6530900390797888
+      },
+      {
+        "chunk_id": "5ac0af7cc381c88b9f6cc731",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 63,
+        "text": "ften\nachieve the desired goals of price control laws, while avoiding at least some of their costs and tradeoffs.\n\nPrice Ceilings\n\nLaws that governments enact to regulate prices are called price controls. Price controls come in two flavors. A\nprice ceiling keeps a price from rising above a certain level (the “ceiling”), while a price floor keeps a price\nfrom falling below a given level (the “floor”). This section uses the demand and supply framework to analyze\nprice ceilings. The next section dis",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.5420362676403692
+      },
+      {
+        "chunk_id": "a30d394c61f91455d50d218e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 63,
+        "text": "price from rising so high. In this particular case, the government\ndid not impose a price ceiling, but there are other examples of where price ceilings did occur.\n\nIn many markets for goods and services, demanders outnumber suppliers. Consumers, who are also potential\nvoters, sometimes unite behind a political proposal to hold down a certain price. In some cities, such as\nAlbany, renters have pressed political leaders to pass rent control laws, a price ceiling that usually works by\nstating that ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.5289076566696167
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 63,
+        "evidence_quote": "price ceiling is a legal maximum price that one pays for some good or service."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What is a price floor?",
+    "filter": {
+      "section": "chapter_3"
+    },
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "c90b6953194dff3c156a6d7c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 65,
+        "text": "3.4 • Price Ceilings and Price Floors 73\n\nall. Quality is also likely to deteriorate.\n\nPrice Floors\n\nA price floor is the lowest price that one can legally pay for some good or service. Perhaps the best-known\nexample of a price floor is the minimum wage, which is based on the view that someone working full time\nshould be able to afford a basic standard of living. The federal minimum wage in 2022 was $7.25 per hour,\nalthough some states and localities have a higher minimum wage. The federal minim",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6774320804307488
+      },
+      {
+        "chunk_id": "ce855628299f6397a410ed53",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 66,
+        "text": "74 3 • Demand and Supply\n\nFIGURE 3.22 European Wheat Prices: A Price Floor Example The intersection of demand (D) and supply (S) would\nbe at the equilibrium point E0. However, a price floor set at Pf holds the price above E0 and prevents it from falling.\nThe result of the price floor is that the quantity supplied Qs exceeds the quantity demanded Qd. There is excess\nsupply, also called a surplus.\n3.5 Demand, Supply, and Efficiency\n\nLEARNING OBJECTIVES\nBy the end of this section, you will be able ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.5512227312823594
+      },
+      {
+        "chunk_id": "cf22f4c984c2db2f1dda8c33",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 63,
+        "text": "rk to analyze\nprice ceilings. The next section discusses price floors.\n\nA price ceiling is a legal maximum price that one pays for some good or service. A government imposes price\nceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during\nHurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for\nprice controls on bottled water to prevent the price from rising so high. In this particular case",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.5383099202790788
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 65,
+        "evidence_quote": "Price Floors A price floor is the lowest price that one can legally pay for some good or service."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What does consumer surplus indicate about equilibrium price and willingness to pay?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "7866e447a4198e84989e23e7",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "ult, the new consumer surplus is T + V, while the new\nproducer surplus is X. (b) The original equilibrium is $8 at a quantity of 1,800. Consumer surplus is G + H + J, and\nproducer surplus is I + K. A price floor is imposed at $12, which means that quantity demanded falls to 1,400. As a\nresult, the new consumer surplus is G, and the new producer surplus is H + I.\n\nFigure 3.24 (b) shows a price floor example using a string of struggling movie theaters, all in the same city. The\ncurrent equilibrium",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7433543052288489
+      },
+      {
+        "chunk_id": "c25dfefb0303f12b0ba49de1",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "(V) from producers to consumers. Note that the gain to\nconsumers is less than the loss to producers, which is just another way of seeing the deadweight loss.\n\nFIGURE 3.24 Efficiency and Price Floors and Ceilings (a) The original equilibrium price is $600 with a quantity of\n20,000. Consumer surplus is T + U, and producer surplus is V + W + X. A price ceiling is imposed at $400, so firms in\nthe market now produce only a quantity of 15,000. As a result, the new consumer surplus is T + V, while the ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7106214761734009
+      },
+      {
+        "chunk_id": "55783f2b97812fdf724ab0cc",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "er and producer\nsurplus to be higher, in this case because the price control is blocking some suppliers and demanders from\ntransactions they would both be willing to make.\n\nA second change from the price ceiling is that some of the producer surplus is transferred to consumers. After\nthe price ceiling is imposed, the new consumer surplus is T + V, while the new producer surplus is X. In other\nwords, the price ceiling transfers the area of surplus (V) from producers to consumers. Note that the gai",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7104071590425721
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 67,
+        "evidence_quote": "the equilibrium price in the market was less than what many of the consumers were willing to pay."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "A"
+  },
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "How is economics defined in the textbook?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "d154db5031f2b79f00769cec",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 16,
+        "text": "1.1 What Is Economics, and Why Is It Important?",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7714285348142894
+      },
+      {
+        "chunk_id": "c163bb144c84f8ac7f3c240e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 6,
+        "text": "14 1 • Welcome to Economics!\n\nWhy Study Economics?",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7488580346107483
+      },
+      {
+        "chunk_id": "3a902876f316891edbdc53b2",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 2,
+        "text": "Economics is probably not what you think. It is not primarily about money or finance. It is not primarily about\nbusiness. It is not mathematics. What is it then? It is both a subject area and a way of viewing the world.\n1.1 What Is Economics, and Why Is It Important?\n\nLEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Discuss the importance of studying economics\n• Explain the relationship between production and division of labor\n• Evaluate the significance of scarcity",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.6980811357498169
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 2,
+        "evidence_quote": "Economics is the study of how humans make decisions in the face of scarcity."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What does scarcity mean in economics?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "4a977bad86ca8921fdc1e63f",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 2,
+        "text": "Economics is the study of how humans make decisions in the face of scarcity. These can be individual\ndecisions, family decisions, business decisions or societal decisions. If you look around carefully, you will see\nthat scarcity is a fact of life. Scarcity means that human wants for goods, services and resources exceed what\nis available. Resources, such as labor, tools, land, and raw materials are necessary to produce the goods and\nservices we want but they exist in limited supply. Of course, th",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7940378189086914
+      },
+      {
+        "chunk_id": "a0c8f6b36e78ad1b70cb22ec",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 3,
+        "text": "cept of scarcity a little deeper, because it is crucial to\nunderstanding economics.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7800006735325274
+      },
+      {
+        "chunk_id": "86bad5d013380721f65d02d1",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 35,
+        "text": "Economists see the real world as one of scarcity: that is, a world in which people’s desires exceed what is\npossible. As a result, economic behavior involves tradeoffs in which individuals, firms, and society must forgo\nsomething that they desire to obtain things that they desire more. Individuals face the tradeoff of what\nquantities of goods and services to consume. The budget constraint, which is the frontier of the opportunity\nset, illustrates the range of available choices. The relative pric",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7412203550338745
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 2,
+        "evidence_quote": "Scarcity means that human wants for goods, services and resources exceed what is available."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What contribution to the division of labor is attributed to Adam Smith?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ab8d3d5fe058c566d216abb8",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 4,
+        "text": "12 1 • Welcome to Economics!\n\nFIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks. (Credit: \"Adam\nSmith\" by Cadell and Davies (1811), John Horsburgh (1828), or R.C. Bell (1872)/Wikimedia Commons, Public\nDomain)\n\nThe Division of and Specialization of Labor",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7731488211839702
+      },
+      {
+        "chunk_id": "fc6ac5f1b430cdaa8c85d44f",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 5,
+        "text": " than the same number of workers\nwho try to produce the entire good or service by themselves? Smith offered three reasons.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.6146426933577888
+      },
+      {
+        "chunk_id": "af15c5cd089e09b5b86effb1",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 5,
+        "text": "1.1 • What Is Economics, and Why Is It Important? 13\n\nWhy the Division of Labor Increases Production",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.5888706690746242
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 4,
+        "evidence_quote": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What are economic theories based on when economists analyze issues?",
+    "filter": {
+      "section": "chapter_1"
+    },
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "d2a439f0189fb0223a93aa6c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 9,
+        "text": "1.3 • How Economists Use Theories and Models to Understand Economic Issues 17",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.8931668198257647
+      },
+      {
+        "chunk_id": "ad27df75a69d718347c8df64",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 10,
+        "text": "Economists carry a set of theories in their heads like a carpenter carries around a toolkit. When they see an\neconomic issue or problem, they go through the theories they know to see if they can find one that fits. Then\nthey use the theory to derive insights about the issue or problem. Economists express theories as diagrams,\ngraphs, or even as mathematical equations. (Do not worry. In this course, we will mostly use graphs.)\nEconomists do not figure out the answer to the problem first and then ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7918830153907248
+      },
+      {
+        "chunk_id": "a6868865fc2cdf4fe0b2fcd2",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 17,
+        "text": "1.3 How Economists Use Theories and Models to Understand Economic Issues\n\nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use\nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a\ntool for determining the answer.\n\n1.4 How To Organize Economies: An Overview of Economic Systems",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7858987684815758
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 9,
+        "evidence_quote": "They analyze issues and problems using economic theories that are based on particular assumptions about human behavior."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Which parts of the economy does microeconomics focus on?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "c87f9351733991513d733500",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 7,
+        "text": "It should be clear by now that economics covers considerable ground. We can divide that ground into two\nparts: Microeconomics focuses on the actions of individual agents within the economy, like households,\nworkers, and businesses. Macroeconomics looks at the economy as a whole. It focuses on broad issues such as\ngrowth of production, the number of unemployed people, the inflationary increase in prices, government\ndeficits, and levels of exports and imports. Microeconomics and macroeconomics are",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.8372161041860615
+      },
+      {
+        "chunk_id": "d499b56d73d7f7830e5a4219",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 17,
+        "text": "1 • Self-Check Questions 25\n\n1.2 Microeconomics and Macroeconomics\n\nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic\nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic\nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living,\nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary\npolicy and fiscal policy.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.771640419960022
+      },
+      {
+        "chunk_id": "77519b7291d4bf15e00cb3fe",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 7,
+        "text": "In economics, the micro decisions of individual businesses are influenced by whether the macroeconomy is\nhealthy. For example, firms will be more likely to hire workers if the overall economy is growing. In turn,\nmacroeconomy's performance ultimately depends on the microeconomic decisions that individual\nhouseholds and businesses make.\n\nMicroeconomics",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.747183427046743
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 17,
+        "evidence_quote": "The microeconomic perspective focuses on parts of the economy: individuals, firms, and industries."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What does opportunity cost describe?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "6d2b1e01322f677355912492",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 21,
+        "text": "The Concept of Opportunity Cost",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.9132413268089294
+      },
+      {
+        "chunk_id": "4f46ae5aa15e6d48422541fb",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 21,
+        "text": "Economists use the term opportunity cost to indicate what people must give up to obtain what they desire.\nThe idea behind opportunity cost is that the cost of one item is the lost opportunity to do or consume\nsomething else. In short, opportunity cost is the value of the next best alternative. For Alphonso, the\nopportunity cost of a burger is the four bus tickets he would have to give up. He would decide whether or not to\nchoose the burger depending on whether the value of the burger exceeds the",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7861344686826761
+      },
+      {
+        "chunk_id": "717d22c13a88c9db1c81da50",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 35,
+        "text": "Opportunity cost measures cost by what we forgo in exchange. Sometimes we can measure opportunity cost in\nmoney, but it is often useful to consider time as well, or to measure it in terms of the actual resources that we\nmust forfeit.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7772742741487707
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 21,
+        "evidence_quote": "The Concept of Opportunity Cost Economists use the term opportunity cost to indicate what people must give up to obtain what they desire."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Does the text emphasize similarities or differences between individual and social choice?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "7393c3391a79071337393316",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 26,
+        "text": "Just as individuals cannot have everything they want and must instead make choices, society as a whole\ncannot have everything it might want, either. This section of the chapter will explain the constraints society\nfaces, using a model called the production possibilities frontier (PPF). There are more similarities than\ndifferences between individual choice and social choice. As you read this section, focus on the similarities.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.5659935733083832
+      },
+      {
+        "chunk_id": "764dc88eb0676a5c863c27ea",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 32,
+        "text": "ties set that is socially preferred, or the choice on an individual’s",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.4870528716194219
+      },
+      {
+        "chunk_id": "db8b37a9aedf39cec6b7411e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 33,
+        "text": "Third, self-interested behavior can lead to positive social results. For example, when people work hard to make\na living, they create economic output. Consumers who are looking for the best deals will encourage businesses\nto offer goods and services that meet their needs. Adam Smith, writing in TheWealthofNations, named this\nproperty the invisible hand. In describing how consumers and producers interact in a market economy, Smith\nwrote:",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.4596054344781393
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 26,
+        "evidence_quote": "There are more similarities than differences between individual choice and social choice."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What is productive efficiency?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "82c8b6cbe1be1283616b9846",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": "Productive Efficiency and Allocative Efficiency",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.8511068998447776
+      },
+      {
+        "chunk_id": "f5713abcd94fd11a0f74c64e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": "Productive efficiency means that, given the available inputs and technology, it is impossible to produce more\nof one good without decreasing the quantity that is produced of another good. All choices on the PPF in Figure\n2.4, including A, B, C, D, and F, display productive efficiency. As a firm moves from any one of these choices to\nany other, either healthcare increases and education decreases or vice versa. However, any choice inside the\nproduction possibilities frontier is productively ineffi",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.8145431986723438
+      },
+      {
+        "chunk_id": "04c1315aeb24cd5908c55cf9",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": "FIGURE 2.4 Productive and Allocative Efficiency Productive efficiency means it is impossible to produce more of\none good without decreasing the quantity that is produced of another good. Thus, all choices along a given PPF like\nB, C, and D display productive efficiency, but R does not. Allocative efficiency means that the particular mix of goods\nbeing produced—that is, the specific choice along the production possibilities frontier—represents the allocation\nthat society most desires.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.8058903217315732
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 29,
+        "evidence_quote": ".2 • The Production Possibilities Frontier and Social Choices 37 Productive efficiency means that, given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity that is produced of another good."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What type of analysis is illustrated by evaluating a subway project’s benefits and costs?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "16314e880ca1d1ea2f151654",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 32,
+        "text": "opinion. We cannot test them since we cannot prove opinions to be true or false. They just are opinions based\non one's values. For example, an economist could analyze a proposed subway system in a certain city. If the\nexpected benefits exceed the costs, he concludes that the project is worthy—an example of positive analysis.\nAnother economist argues for extended unemployment compensation during the COVID-19 pandemic\nbecause a rich country like the United States should take care of its less fortu",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.597144603729248
+      },
+      {
+        "chunk_id": "ab9c7f14df4946adee92d4c8",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 20,
+        "text": "LEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Calculate and graph budget constraints\n• Explain opportunity sets and opportunity costs\n• Evaluate the law of diminishing marginal utility\n• Explain how marginal analysis and utility influence choices",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.48844847083091736
+      },
+      {
+        "chunk_id": "7b59db84dbd9f20daa79283b",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 60,
+        "text": "Since this problem involves two disturbances, we need two four-step analyses, the first to analyze the effects of\nhigher compensation for postal workers, the second to analyze the effects of many people switching from\n“snail mail” to email and other digital messages.\n\nFigure 3.18 (a) shows the shift in supply discussed in the following steps.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.48587212050723405
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 32,
+        "evidence_quote": "If the expected benefits exceed the costs, he concludes that the project is worthy—an example of positive analysis."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What does allocative efficiency mean?",
+    "filter": {
+      "section": "chapter_2"
+    },
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      false,
+      true
+    ],
+    "hits": [
+      {
+        "chunk_id": "82c8b6cbe1be1283616b9846",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": "Productive Efficiency and Allocative Efficiency",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7640203974234835
+      },
+      {
+        "chunk_id": "6a4d83ec8e456b6dec298661",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": "Allocative efficiency means that the particular combination of goods and services on the production\npossibility curve that a society produces represents the combination that society most desires. How to\ndetermine what a society desires can be a controversial question, and is usually a discussion in political\nscience, sociology, and philosophy classes as well as in economics. At its most basic, allocative efficiency\nmeans producers supply the quantity of each product that consumers demand. Only o",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7063381671905518
+      },
+      {
+        "chunk_id": "33ad0542179596acaf336cd0",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 35,
+        "text": "allocative efficiency when the mix of goods produced represents the mix that society most desires\nbudget constraint all possible consumption combinations of goods that someone can afford, given the prices\nof goods, when all income is spent; the boundary of the opportunity set\ncomparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a\ncountry has a lower opportunity cost of production\ninvisible hand Adam Smith's concept that individuals' self-inter",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.6927215456962585
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 35,
+        "evidence_quote": "allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that"
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "What is quantity demanded?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "04b67425fd028465d422d730",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 40,
+        "text": "48 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6829109991464319
+      },
+      {
+        "chunk_id": "4db33c844dbdf51d3ee1df51",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 46,
+        "text": "54 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6827651262283325
+      },
+      {
+        "chunk_id": "762bf95f584c8268e25d8828",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "76 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6787609649443064
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 41,
+        "evidence_quote": "The total number of units that consumers would purchase at that price is called the quantity demanded."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What relationship does the law of demand describe?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "0c95d249b6328710b38e143a",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 41,
+        "text": "uting by carpool or mass transit, or taking\nweekend or vacation trips closer to home. Economists call this inverse relationship between price and quantity\ndemanded the law of demand. The law of demand assumes that all other variables that affect demand (which\nwe explain in the next module) are held constant.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.775947163338706
+      },
+      {
+        "chunk_id": "7b26bc9d7e6cd8457e0b50dd",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 40,
+        "text": "Economists use the term demand to refer to the amount of some good or service consumers are willing and\nable to purchase at each price. Demand is fundamentally based on needs and wants—if you have no need or\nwant for something, you won't buy it. While a consumer may be able to differentiate between a need and a\nwant, from an economist’s perspective they are the same thing. Demand is also based on ability to pay. If you\ncannot pay for it, you have no effective demand. By this definition, a person",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7270670533180289
+      },
+      {
+        "chunk_id": "387b81755bc305b52a13d739",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 46,
+        "text": "We defined demand as the amount of some product a consumer is willing and able to purchase at each price.\nThat suggests at least two factors that affect demand. Willingness to purchase suggests a desire, based on what\neconomists call tastes and preferences. If you neither need nor want something, you will not buy it, and if you\nreally like something, you will buy more of it than someone who does not share your strong preference for it.\nAbility to purchase suggests that income is important. Profe",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7103151506373389
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 42,
+        "evidence_quote": "The downward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices and quantity demanded."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Is supply the same as quantity supplied?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "1427a9f5dc797941319065d1",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 43,
+        "text": "Is supply the same as quantity supplied?\nIn economic terminology, supply is not the same as quantity supplied. When economists refer to supply, they mean\nthe relationship between a range of prices and the quantities supplied at those prices, a relationship that we can\nillustrate with a supply curve or a supply schedule. When economists refer to quantity supplied, they mean only a\ncertain point on the supply curve, or one quantity on the supply schedule. In short, supply refers to the curve and\nq",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.8230980283945303
+      },
+      {
+        "chunk_id": "da9848753f97a9775e63b34e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 42,
+        "text": " quantity supplied—the law of supply. The law of supply assumes that all other variables that affect\nsupply (to be explained in the next module) are held constant.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7894466629129676
+      },
+      {
+        "chunk_id": "e171d6d5d06990d680ef4226",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 42,
+        "text": "Supply of Goods and Services",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6892609801668297
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 43,
+        "evidence_quote": "In economic terminology, supply is not the same as quantity supplied."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What happens to quantity demanded and supplied in a shortage?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "04b67425fd028465d422d730",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 40,
+        "text": "48 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7627284754135754
+      },
+      {
+        "chunk_id": "4db33c844dbdf51d3ee1df51",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 46,
+        "text": "54 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7555789947509766
+      },
+      {
+        "chunk_id": "762bf95f584c8268e25d8828",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "76 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7549896982318356
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 46,
+        "evidence_quote": "4 3 • Demand and Supply When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which has been depressed by the lower price."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What happens to demand for an inferior good when income increases?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "6cd4a387ca1ecdc92d0ab67b",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 48,
+        "text": "In the previous section, we argued that higher income causes greater demand at every price. This is true for\nmost goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in\nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is\ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7444194846653324
+      },
+      {
+        "chunk_id": "41a37b8acae3a955fb2f2586",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": ", quality, and price that\npeople want. However, for both the government and the market economy in the short term, increases in\nproduction of one good typically mean offsetting decreases somewhere else in the economy.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.723989887475366
+      },
+      {
+        "chunk_id": "1505531c476e165666a06640",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 50,
+        "text": "FIGURE 3.7 Demand Curve with Income Increase With an increase in income, consumers will purchase larger\nquantities, pushing demand to the right.\n\nStep 3. Now, shift the curve through the new point. You will see that an increase in income causes an upward (or\nrightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as Figure 3.8\nillustrates.\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7085051536560109
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 49,
+        "evidence_quote": "A product whose demand falls when income rises, and vice versa, is called an inferior good."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "How do lower production costs affect the supply curve?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ea54197cadfdbb7b80abb81c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 52,
+        "text": "Conversely, if a firm faces higher costs of production, then it will earn lower profits at any given selling price for\nits products. As a result, a higher cost of production typically causes a firm to supply a smaller quantity at any\ngiven price. In this case, the supply curve shifts to the left.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7857589253330886
+      },
+      {
+        "chunk_id": "c38b60d41def4b39f52e89a3",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 53,
+        "text": "Other Factors That Affect Supply\n\nIn the example above, we saw that changes in the prices of inputs in the production process will affect the cost\nof production and thus the supply. Several other things affect the cost of production, too, such as changes in\nweather or other natural conditions, new technologies for production, and some government policies.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7212414741516113
+      },
+      {
+        "chunk_id": "ad8c88f727f2915eabef1d67",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 55,
+        "text": "Step 4. Shift the supply curve through this point. You will see that an increase in cost causes an upward (or a\nleftward) shift of the supply curve so that at any price, the quantities supplied will be smaller, as Figure 3.14\nillustrates.\n\nFIGURE 3.14 Supply Curve Shifts When the cost of production increases, the supply curve shifts upwardly to a\nnew price level.\n\nSumming Up Factors That Change Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7089196443557739
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 52,
+        "evidence_quote": "When costs of production fall, a firm will tend to supply a larger quantity at any given price for its output."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "What is the first step in the four-step equilibrium analysis?",
+    "filter": {
+      "section": "chapter_3"
+    },
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "7c6225d85c71657d2826be6c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 56,
+        "text": "Step 4. Identify the new equilibrium and then compare the original equilibrium price and quantity to the new\nequilibrium price and quantity.\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7028778227756464
+      },
+      {
+        "chunk_id": "c350c977244eacea906d8f5e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 60,
+        "text": "Step 4. Compare the new equilibrium price and quantity to the original equilibrium price. The new equilibrium\n(E2) occurs at a lower quantity and a lower price than the original equilibrium (E0).\n\nThe final step in a scenario where both supply and demand shift is to combine the two individual analyses to\ndetermine what happens to the equilibrium quantity and price. Graphically, we superimpose the previous two\ndiagrams one on top of the other, as in Figure 3.19.\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7013002843052236
+      },
+      {
+        "chunk_id": "47a478f2bc79c2a78f0bbf79",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 56,
+        "text": "LEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Identify equilibrium price and quantity through the four-step process\n• Graph equilibrium price and quantity\n• Contrast shifts of demand or supply and movements along a demand or supply curve\n• Graph demand and supply curves, including equilibrium price and quantity, based on real-world\nexamples",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.5911896052602075
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 56,
+        "evidence_quote": "Step 1. Draw a demand and supply model before the economic change took place."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "How does the textbook define a price ceiling?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "fb7ff5590e07beced07f52e4",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 63,
+        "text": "mples of where price ceilings did occur.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6111144655278654
+      },
+      {
+        "chunk_id": "74846dfe23261ea9472540e0",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 63,
+        "text": "A price ceiling is a legal maximum price that one pays for some good or service. A government imposes price\nceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during\nHurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for\nprice controls on bottled water to prevent the price from rising so high. In this particular case, the government\ndid not impose a price ceiling, but there are other exa",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6100009214879224
+      },
+      {
+        "chunk_id": "f2735973df09430cc28658bf",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "This analysis shows that a price ceiling, like a law establishing rent controls, will transfer some producer\nsurplus to consumers—which helps to explain why consumers often favor them. Conversely, a price floor like a\nguarantee that farmers will receive a certain price for their crops will transfer some consumer surplus to\nproducers, which explains why producers often favor them. However, both price floors and price ceilings block\nsome transactions that buyers and sellers would have been willing",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6037571430206299
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 63,
+        "evidence_quote": "price ceiling is a legal maximum price that one pays for some good or service."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What is a price floor?",
+    "filter": {
+      "section": "chapter_3"
+    },
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "f1dd762f42abe6ac2ab52d60",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 65,
+        "text": "A price floor is the lowest price that one can legally pay for some good or service. Perhaps the best-known\nexample of a price floor is the minimum wage, which is based on the view that someone working full time\nshould be able to afford a basic standard of living. The federal minimum wage in 2022 was $7.25 per hour,\nalthough some states and localities have a higher minimum wage. The federal minimum wage yields an annual\nincome for a single person of $15,080, which is slightly higher than the Fed",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6985991805374381
+      },
+      {
+        "chunk_id": "9816d0284833189df7637819",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 65,
+        "text": "3.4 • Price Ceilings and Price Floors 73\n\nall. Quality is also likely to deteriorate.\n\nPrice Floors",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6401880169026861
+      },
+      {
+        "chunk_id": "fb89ffd95eb8876c7d058d93",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 67,
+        "text": "Inefficiency of Price Floors and Price Ceilings\n\nThe imposition of a price floor or a price ceiling will prevent a market from adjusting to its equilibrium price\nand quantity, and thus will create an inefficient outcome. However, there is an additional twist here. Along with\ncreating inefficiency, price floors and ceilings will also transfer some consumer surplus to producers, or some\nproducer surplus to consumers.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.5850251840077507
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 65,
+        "evidence_quote": "Price Floors A price floor is the lowest price that one can legally pay for some good or service."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What does consumer surplus indicate about equilibrium price and willingness to pay?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      false,
+      true
+    ],
+    "hits": [
+      {
+        "chunk_id": "9b7677d93a702b9732e6651d",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "FIGURE 3.24 Efficiency and Price Floors and Ceilings (a) The original equilibrium price is $600 with a quantity of\n20,000. Consumer surplus is T + U, and producer surplus is V + W + X. A price ceiling is imposed at $400, so firms in\nthe market now produce only a quantity of 15,000. As a result, the new consumer surplus is T + V, while the new\nproducer surplus is X. (b) The original equilibrium is $8 at a quantity of 1,800. Consumer surplus is G + H + J, and\nproducer surplus is I + K. A price flo",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.735497073203501
+      },
+      {
+        "chunk_id": "560cc9e6ec5cd97ecfcd1b8f",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 66,
+        "text": "tually paid, is called consumer surplus.\nConsumer surplus is the area labeled F—that is, the area above the market price and below the demand curve.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7228084371800175
+      },
+      {
+        "chunk_id": "ce97160cd0d2975bfea295bd",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 67,
+        "text": "FIGURE 3.23 Consumer and Producer Surplus The somewhat triangular area labeled by F shows the area of\nconsumer surplus, which shows that the equilibrium price in the market was less than what many of the consumers\nwere willing to pay. Point J on the demand curve shows that, even at the price of $90, consumers would have been\nwilling to purchase a quantity of 20 million. The somewhat triangular area labeled by G shows the area of producer\nsurplus, which shows that the equilibrium price received i",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7102797204089344
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 67,
+        "evidence_quote": "the equilibrium price in the market was less than what many of the consumers were willing to pay."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "B"
+  },
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "How is economics defined in the textbook?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "d154db5031f2b79f00769cec",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 16,
+        "text": "1.1 What Is Economics, and Why Is It Important?",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7714285348142894
+      },
+      {
+        "chunk_id": "c163bb144c84f8ac7f3c240e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 6,
+        "text": "14 1 • Welcome to Economics!\n\nWhy Study Economics?",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7488580346107483
+      },
+      {
+        "chunk_id": "3a902876f316891edbdc53b2",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 2,
+        "text": "Economics is probably not what you think. It is not primarily about money or finance. It is not primarily about\nbusiness. It is not mathematics. What is it then? It is both a subject area and a way of viewing the world.\n1.1 What Is Economics, and Why Is It Important?\n\nLEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Discuss the importance of studying economics\n• Explain the relationship between production and division of labor\n• Evaluate the significance of scarcity",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.6980811357498169
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 2,
+        "evidence_quote": "Economics is the study of how humans make decisions in the face of scarcity."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What does scarcity mean in economics?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "4a977bad86ca8921fdc1e63f",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 2,
+        "text": "Economics is the study of how humans make decisions in the face of scarcity. These can be individual\ndecisions, family decisions, business decisions or societal decisions. If you look around carefully, you will see\nthat scarcity is a fact of life. Scarcity means that human wants for goods, services and resources exceed what\nis available. Resources, such as labor, tools, land, and raw materials are necessary to produce the goods and\nservices we want but they exist in limited supply. Of course, th",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7940378189086914
+      },
+      {
+        "chunk_id": "a0c8f6b36e78ad1b70cb22ec",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 3,
+        "text": "cept of scarcity a little deeper, because it is crucial to\nunderstanding economics.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7800006735325274
+      },
+      {
+        "chunk_id": "86bad5d013380721f65d02d1",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 35,
+        "text": "Economists see the real world as one of scarcity: that is, a world in which people’s desires exceed what is\npossible. As a result, economic behavior involves tradeoffs in which individuals, firms, and society must forgo\nsomething that they desire to obtain things that they desire more. Individuals face the tradeoff of what\nquantities of goods and services to consume. The budget constraint, which is the frontier of the opportunity\nset, illustrates the range of available choices. The relative pric",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7412203550338745
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 2,
+        "evidence_quote": "Scarcity means that human wants for goods, services and resources exceed what is available."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What contribution to the division of labor is attributed to Adam Smith?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ab8d3d5fe058c566d216abb8",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 4,
+        "text": "12 1 • Welcome to Economics!\n\nFIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks. (Credit: \"Adam\nSmith\" by Cadell and Davies (1811), John Horsburgh (1828), or R.C. Bell (1872)/Wikimedia Commons, Public\nDomain)\n\nThe Division of and Specialization of Labor",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7731488211839702
+      },
+      {
+        "chunk_id": "fc6ac5f1b430cdaa8c85d44f",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 5,
+        "text": " than the same number of workers\nwho try to produce the entire good or service by themselves? Smith offered three reasons.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.6146426933577888
+      },
+      {
+        "chunk_id": "af15c5cd089e09b5b86effb1",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 5,
+        "text": "1.1 • What Is Economics, and Why Is It Important? 13\n\nWhy the Division of Labor Increases Production",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.5888706690746242
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 4,
+        "evidence_quote": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What are economic theories based on when economists analyze issues?",
+    "filter": {
+      "section": "chapter_1"
+    },
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "d2a439f0189fb0223a93aa6c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 9,
+        "text": "1.3 • How Economists Use Theories and Models to Understand Economic Issues 17",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.8931668198257647
+      },
+      {
+        "chunk_id": "ad27df75a69d718347c8df64",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 10,
+        "text": "Economists carry a set of theories in their heads like a carpenter carries around a toolkit. When they see an\neconomic issue or problem, they go through the theories they know to see if they can find one that fits. Then\nthey use the theory to derive insights about the issue or problem. Economists express theories as diagrams,\ngraphs, or even as mathematical equations. (Do not worry. In this course, we will mostly use graphs.)\nEconomists do not figure out the answer to the problem first and then ",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7918830153907248
+      },
+      {
+        "chunk_id": "a6868865fc2cdf4fe0b2fcd2",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 17,
+        "text": "1.3 How Economists Use Theories and Models to Understand Economic Issues\n\nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use\nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a\ntool for determining the answer.\n\n1.4 How To Organize Economies: An Overview of Economic Systems",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.7858987684815758
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 9,
+        "evidence_quote": "They analyze issues and problems using economic theories that are based on particular assumptions about human behavior."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Which parts of the economy does microeconomics focus on?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "c87f9351733991513d733500",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 7,
+        "text": "It should be clear by now that economics covers considerable ground. We can divide that ground into two\nparts: Microeconomics focuses on the actions of individual agents within the economy, like households,\nworkers, and businesses. Macroeconomics looks at the economy as a whole. It focuses on broad issues such as\ngrowth of production, the number of unemployed people, the inflationary increase in prices, government\ndeficits, and levels of exports and imports. Microeconomics and macroeconomics are",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.8372161041860615
+      },
+      {
+        "chunk_id": "d499b56d73d7f7830e5a4219",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 17,
+        "text": "1 • Self-Check Questions 25\n\n1.2 Microeconomics and Macroeconomics\n\nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic\nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic\nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living,\nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary\npolicy and fiscal policy.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.771640419960022
+      },
+      {
+        "chunk_id": "77519b7291d4bf15e00cb3fe",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 7,
+        "text": "In economics, the micro decisions of individual businesses are influenced by whether the macroeconomy is\nhealthy. For example, firms will be more likely to hire workers if the overall economy is growing. In turn,\nmacroeconomy's performance ultimately depends on the microeconomic decisions that individual\nhouseholds and businesses make.\n\nMicroeconomics",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_1",
+          "language": "en"
+        },
+        "score": 0.747183427046743
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 17,
+        "evidence_quote": "The microeconomic perspective focuses on parts of the economy: individuals, firms, and industries."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What does opportunity cost describe?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "6d2b1e01322f677355912492",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 21,
+        "text": "The Concept of Opportunity Cost",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.9132413268089294
+      },
+      {
+        "chunk_id": "4f46ae5aa15e6d48422541fb",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 21,
+        "text": "Economists use the term opportunity cost to indicate what people must give up to obtain what they desire.\nThe idea behind opportunity cost is that the cost of one item is the lost opportunity to do or consume\nsomething else. In short, opportunity cost is the value of the next best alternative. For Alphonso, the\nopportunity cost of a burger is the four bus tickets he would have to give up. He would decide whether or not to\nchoose the burger depending on whether the value of the burger exceeds the",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7861344686826761
+      },
+      {
+        "chunk_id": "717d22c13a88c9db1c81da50",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 35,
+        "text": "Opportunity cost measures cost by what we forgo in exchange. Sometimes we can measure opportunity cost in\nmoney, but it is often useful to consider time as well, or to measure it in terms of the actual resources that we\nmust forfeit.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7772742741487707
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 21,
+        "evidence_quote": "The Concept of Opportunity Cost Economists use the term opportunity cost to indicate what people must give up to obtain what they desire."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Does the text emphasize similarities or differences between individual and social choice?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "7393c3391a79071337393316",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 26,
+        "text": "Just as individuals cannot have everything they want and must instead make choices, society as a whole\ncannot have everything it might want, either. This section of the chapter will explain the constraints society\nfaces, using a model called the production possibilities frontier (PPF). There are more similarities than\ndifferences between individual choice and social choice. As you read this section, focus on the similarities.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.5659935733083832
+      },
+      {
+        "chunk_id": "764dc88eb0676a5c863c27ea",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 32,
+        "text": "ties set that is socially preferred, or the choice on an individual’s",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.4870528716194219
+      },
+      {
+        "chunk_id": "db8b37a9aedf39cec6b7411e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 33,
+        "text": "Third, self-interested behavior can lead to positive social results. For example, when people work hard to make\na living, they create economic output. Consumers who are looking for the best deals will encourage businesses\nto offer goods and services that meet their needs. Adam Smith, writing in TheWealthofNations, named this\nproperty the invisible hand. In describing how consumers and producers interact in a market economy, Smith\nwrote:",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.4596054344781393
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 26,
+        "evidence_quote": "There are more similarities than differences between individual choice and social choice."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What is productive efficiency?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "82c8b6cbe1be1283616b9846",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": "Productive Efficiency and Allocative Efficiency",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.8511068998447776
+      },
+      {
+        "chunk_id": "f5713abcd94fd11a0f74c64e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": "Productive efficiency means that, given the available inputs and technology, it is impossible to produce more\nof one good without decreasing the quantity that is produced of another good. All choices on the PPF in Figure\n2.4, including A, B, C, D, and F, display productive efficiency. As a firm moves from any one of these choices to\nany other, either healthcare increases and education decreases or vice versa. However, any choice inside the\nproduction possibilities frontier is productively ineffi",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.8145431986723438
+      },
+      {
+        "chunk_id": "04c1315aeb24cd5908c55cf9",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": "FIGURE 2.4 Productive and Allocative Efficiency Productive efficiency means it is impossible to produce more of\none good without decreasing the quantity that is produced of another good. Thus, all choices along a given PPF like\nB, C, and D display productive efficiency, but R does not. Allocative efficiency means that the particular mix of goods\nbeing produced—that is, the specific choice along the production possibilities frontier—represents the allocation\nthat society most desires.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.8058903217315732
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 29,
+        "evidence_quote": ".2 • The Production Possibilities Frontier and Social Choices 37 Productive efficiency means that, given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity that is produced of another good."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What type of analysis is illustrated by evaluating a subway project’s benefits and costs?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "16314e880ca1d1ea2f151654",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 32,
+        "text": "opinion. We cannot test them since we cannot prove opinions to be true or false. They just are opinions based\non one's values. For example, an economist could analyze a proposed subway system in a certain city. If the\nexpected benefits exceed the costs, he concludes that the project is worthy—an example of positive analysis.\nAnother economist argues for extended unemployment compensation during the COVID-19 pandemic\nbecause a rich country like the United States should take care of its less fortu",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.597144603729248
+      },
+      {
+        "chunk_id": "ab9c7f14df4946adee92d4c8",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 20,
+        "text": "LEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Calculate and graph budget constraints\n• Explain opportunity sets and opportunity costs\n• Evaluate the law of diminishing marginal utility\n• Explain how marginal analysis and utility influence choices",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.48844847083091736
+      },
+      {
+        "chunk_id": "7b59db84dbd9f20daa79283b",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 60,
+        "text": "Since this problem involves two disturbances, we need two four-step analyses, the first to analyze the effects of\nhigher compensation for postal workers, the second to analyze the effects of many people switching from\n“snail mail” to email and other digital messages.\n\nFigure 3.18 (a) shows the shift in supply discussed in the following steps.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.48587212050723405
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 32,
+        "evidence_quote": "If the expected benefits exceed the costs, he concludes that the project is worthy—an example of positive analysis."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What does allocative efficiency mean?",
+    "filter": {
+      "section": "chapter_2"
+    },
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      false,
+      true
+    ],
+    "hits": [
+      {
+        "chunk_id": "82c8b6cbe1be1283616b9846",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 28,
+        "text": "Productive Efficiency and Allocative Efficiency",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7640203974234835
+      },
+      {
+        "chunk_id": "6a4d83ec8e456b6dec298661",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": "Allocative efficiency means that the particular combination of goods and services on the production\npossibility curve that a society produces represents the combination that society most desires. How to\ndetermine what a society desires can be a controversial question, and is usually a discussion in political\nscience, sociology, and philosophy classes as well as in economics. At its most basic, allocative efficiency\nmeans producers supply the quantity of each product that consumers demand. Only o",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.7063381671905518
+      },
+      {
+        "chunk_id": "33ad0542179596acaf336cd0",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 35,
+        "text": "allocative efficiency when the mix of goods produced represents the mix that society most desires\nbudget constraint all possible consumption combinations of goods that someone can afford, given the prices\nof goods, when all income is spent; the boundary of the opportunity set\ncomparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a\ncountry has a lower opportunity cost of production\ninvisible hand Adam Smith's concept that individuals' self-inter",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.6927215456962585
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 35,
+        "evidence_quote": "allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that"
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "What is quantity demanded?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "04b67425fd028465d422d730",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 40,
+        "text": "48 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6829109991464319
+      },
+      {
+        "chunk_id": "4db33c844dbdf51d3ee1df51",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 46,
+        "text": "54 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6827651262283325
+      },
+      {
+        "chunk_id": "762bf95f584c8268e25d8828",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "76 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6787609649443064
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 41,
+        "evidence_quote": "The total number of units that consumers would purchase at that price is called the quantity demanded."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What relationship does the law of demand describe?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "0c95d249b6328710b38e143a",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 41,
+        "text": "uting by carpool or mass transit, or taking\nweekend or vacation trips closer to home. Economists call this inverse relationship between price and quantity\ndemanded the law of demand. The law of demand assumes that all other variables that affect demand (which\nwe explain in the next module) are held constant.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.775947163338706
+      },
+      {
+        "chunk_id": "7b26bc9d7e6cd8457e0b50dd",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 40,
+        "text": "Economists use the term demand to refer to the amount of some good or service consumers are willing and\nable to purchase at each price. Demand is fundamentally based on needs and wants—if you have no need or\nwant for something, you won't buy it. While a consumer may be able to differentiate between a need and a\nwant, from an economist’s perspective they are the same thing. Demand is also based on ability to pay. If you\ncannot pay for it, you have no effective demand. By this definition, a person",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7270670533180289
+      },
+      {
+        "chunk_id": "387b81755bc305b52a13d739",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 46,
+        "text": "We defined demand as the amount of some product a consumer is willing and able to purchase at each price.\nThat suggests at least two factors that affect demand. Willingness to purchase suggests a desire, based on what\neconomists call tastes and preferences. If you neither need nor want something, you will not buy it, and if you\nreally like something, you will buy more of it than someone who does not share your strong preference for it.\nAbility to purchase suggests that income is important. Profe",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7103151506373389
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 42,
+        "evidence_quote": "The downward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices and quantity demanded."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Is supply the same as quantity supplied?",
+    "filter": null,
+    "hit1": 1,
+    "hit3": 1,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "1427a9f5dc797941319065d1",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 43,
+        "text": "Is supply the same as quantity supplied?\nIn economic terminology, supply is not the same as quantity supplied. When economists refer to supply, they mean\nthe relationship between a range of prices and the quantities supplied at those prices, a relationship that we can\nillustrate with a supply curve or a supply schedule. When economists refer to quantity supplied, they mean only a\ncertain point on the supply curve, or one quantity on the supply schedule. In short, supply refers to the curve and\nq",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.8230980283945303
+      },
+      {
+        "chunk_id": "da9848753f97a9775e63b34e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 42,
+        "text": " quantity supplied—the law of supply. The law of supply assumes that all other variables that affect\nsupply (to be explained in the next module) are held constant.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7894466629129676
+      },
+      {
+        "chunk_id": "e171d6d5d06990d680ef4226",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 42,
+        "text": "Supply of Goods and Services",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6892609801668297
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 43,
+        "evidence_quote": "In economic terminology, supply is not the same as quantity supplied."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What happens to quantity demanded and supplied in a shortage?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "04b67425fd028465d422d730",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 40,
+        "text": "48 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7627284754135754
+      },
+      {
+        "chunk_id": "4db33c844dbdf51d3ee1df51",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 46,
+        "text": "54 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7555789947509766
+      },
+      {
+        "chunk_id": "762bf95f584c8268e25d8828",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "76 3 • Demand and Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7549896982318356
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 46,
+        "evidence_quote": "4 3 • Demand and Supply When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which has been depressed by the lower price."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What happens to demand for an inferior good when income increases?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "6cd4a387ca1ecdc92d0ab67b",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 48,
+        "text": "In the previous section, we argued that higher income causes greater demand at every price. This is true for\nmost goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in\nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is\ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7444194846653324
+      },
+      {
+        "chunk_id": "41a37b8acae3a955fb2f2586",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 29,
+        "text": ", quality, and price that\npeople want. However, for both the government and the market economy in the short term, increases in\nproduction of one good typically mean offsetting decreases somewhere else in the economy.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_2",
+          "language": "en"
+        },
+        "score": 0.723989887475366
+      },
+      {
+        "chunk_id": "1505531c476e165666a06640",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 50,
+        "text": "FIGURE 3.7 Demand Curve with Income Increase With an increase in income, consumers will purchase larger\nquantities, pushing demand to the right.\n\nStep 3. Now, shift the curve through the new point. You will see that an increase in income causes an upward (or\nrightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as Figure 3.8\nillustrates.\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7085051536560109
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 49,
+        "evidence_quote": "A product whose demand falls when income rises, and vice versa, is called an inferior good."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "How do lower production costs affect the supply curve?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ea54197cadfdbb7b80abb81c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 52,
+        "text": "Conversely, if a firm faces higher costs of production, then it will earn lower profits at any given selling price for\nits products. As a result, a higher cost of production typically causes a firm to supply a smaller quantity at any\ngiven price. In this case, the supply curve shifts to the left.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7857589253330886
+      },
+      {
+        "chunk_id": "c38b60d41def4b39f52e89a3",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 53,
+        "text": "Other Factors That Affect Supply\n\nIn the example above, we saw that changes in the prices of inputs in the production process will affect the cost\nof production and thus the supply. Several other things affect the cost of production, too, such as changes in\nweather or other natural conditions, new technologies for production, and some government policies.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7212414741516113
+      },
+      {
+        "chunk_id": "ad8c88f727f2915eabef1d67",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 55,
+        "text": "Step 4. Shift the supply curve through this point. You will see that an increase in cost causes an upward (or a\nleftward) shift of the supply curve so that at any price, the quantities supplied will be smaller, as Figure 3.14\nillustrates.\n\nFIGURE 3.14 Supply Curve Shifts When the cost of production increases, the supply curve shifts upwardly to a\nnew price level.\n\nSumming Up Factors That Change Supply",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7089196443557739
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 52,
+        "evidence_quote": "When costs of production fall, a firm will tend to supply a larger quantity at any given price for its output."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "What is the first step in the four-step equilibrium analysis?",
+    "filter": {
+      "section": "chapter_3"
+    },
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "7c6225d85c71657d2826be6c",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 56,
+        "text": "Step 4. Identify the new equilibrium and then compare the original equilibrium price and quantity to the new\nequilibrium price and quantity.\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7028778227756464
+      },
+      {
+        "chunk_id": "c350c977244eacea906d8f5e",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 60,
+        "text": "Step 4. Compare the new equilibrium price and quantity to the original equilibrium price. The new equilibrium\n(E2) occurs at a lower quantity and a lower price than the original equilibrium (E0).\n\nThe final step in a scenario where both supply and demand shift is to combine the two individual analyses to\ndetermine what happens to the equilibrium quantity and price. Graphically, we superimpose the previous two\ndiagrams one on top of the other, as in Figure 3.19.\n\nAccess for free at openstax.org",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7013002843052236
+      },
+      {
+        "chunk_id": "47a478f2bc79c2a78f0bbf79",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 56,
+        "text": "LEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Identify equilibrium price and quantity through the four-step process\n• Graph equilibrium price and quantity\n• Contrast shifts of demand or supply and movements along a demand or supply curve\n• Graph demand and supply curves, including equilibrium price and quantity, based on real-world\nexamples",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.5911896052602075
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 56,
+        "evidence_quote": "Step 1. Draw a demand and supply model before the economic change took place."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "How does the textbook define a price ceiling?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "fb7ff5590e07beced07f52e4",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 63,
+        "text": "mples of where price ceilings did occur.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6111144655278654
+      },
+      {
+        "chunk_id": "74846dfe23261ea9472540e0",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 63,
+        "text": "A price ceiling is a legal maximum price that one pays for some good or service. A government imposes price\nceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during\nHurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for\nprice controls on bottled water to prevent the price from rising so high. In this particular case, the government\ndid not impose a price ceiling, but there are other exa",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6100009214879224
+      },
+      {
+        "chunk_id": "f2735973df09430cc28658bf",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "This analysis shows that a price ceiling, like a law establishing rent controls, will transfer some producer\nsurplus to consumers—which helps to explain why consumers often favor them. Conversely, a price floor like a\nguarantee that farmers will receive a certain price for their crops will transfer some consumer surplus to\nproducers, which explains why producers often favor them. However, both price floors and price ceilings block\nsome transactions that buyers and sellers would have been willing",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6037571430206299
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 63,
+        "evidence_quote": "price ceiling is a legal maximum price that one pays for some good or service."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What is a price floor?",
+    "filter": {
+      "section": "chapter_3"
+    },
+    "hit1": 0,
+    "hit3": 0,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "f1dd762f42abe6ac2ab52d60",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 65,
+        "text": "A price floor is the lowest price that one can legally pay for some good or service. Perhaps the best-known\nexample of a price floor is the minimum wage, which is based on the view that someone working full time\nshould be able to afford a basic standard of living. The federal minimum wage in 2022 was $7.25 per hour,\nalthough some states and localities have a higher minimum wage. The federal minimum wage yields an annual\nincome for a single person of $15,080, which is slightly higher than the Fed",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6985991805374381
+      },
+      {
+        "chunk_id": "9816d0284833189df7637819",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 65,
+        "text": "3.4 • Price Ceilings and Price Floors 73\n\nall. Quality is also likely to deteriorate.\n\nPrice Floors",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.6401880169026861
+      },
+      {
+        "chunk_id": "fb89ffd95eb8876c7d058d93",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 67,
+        "text": "Inefficiency of Price Floors and Price Ceilings\n\nThe imposition of a price floor or a price ceiling will prevent a market from adjusting to its equilibrium price\nand quantity, and thus will create an inefficient outcome. However, there is an additional twist here. Along with\ncreating inefficiency, price floors and ceilings will also transfer some consumer surplus to producers, or some\nproducer surplus to consumers.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.5850251840077507
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 65,
+        "evidence_quote": "Price Floors A price floor is the lowest price that one can legally pay for some good or service."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What does consumer surplus indicate about equilibrium price and willingness to pay?",
+    "filter": null,
+    "hit1": 0,
+    "hit3": 1,
+    "evidence_matches": [
+      false,
+      false,
+      true
+    ],
+    "hits": [
+      {
+        "chunk_id": "9b7677d93a702b9732e6651d",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 68,
+        "text": "FIGURE 3.24 Efficiency and Price Floors and Ceilings (a) The original equilibrium price is $600 with a quantity of\n20,000. Consumer surplus is T + U, and producer surplus is V + W + X. A price ceiling is imposed at $400, so firms in\nthe market now produce only a quantity of 15,000. As a result, the new consumer surplus is T + V, while the new\nproducer surplus is X. (b) The original equilibrium is $8 at a quantity of 1,800. Consumer surplus is G + H + J, and\nproducer surplus is I + K. A price flo",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.735497073203501
+      },
+      {
+        "chunk_id": "560cc9e6ec5cd97ecfcd1b8f",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 66,
+        "text": "tually paid, is called consumer surplus.\nConsumer surplus is the area labeled F—that is, the area above the market price and below the demand curve.",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7228084371800175
+      },
+      {
+        "chunk_id": "ce97160cd0d2975bfea295bd",
+        "document_id": "openstax_economics_3e_ch1_3",
+        "source": "data/raw/openstax_economics_ch1_ch3.pdf",
+        "page": 67,
+        "text": "FIGURE 3.23 Consumer and Producer Surplus The somewhat triangular area labeled by F shows the area of\nconsumer surplus, which shows that the equilibrium price in the market was less than what many of the consumers\nwere willing to pay. Point J on the demand curve shows that, even at the price of $90, consumers would have been\nwilling to purchase a quantity of 20 million. The somewhat triangular area labeled by G shows the area of producer\nsurplus, which shows that the equilibrium price received i",
+        "metadata": {
+          "edition": "3e",
+          "license": "CC BY-NC-SA 4.0",
+          "section": "chapter_3",
+          "language": "en"
+        },
+        "score": 0.7102797204089344
+      }
+    ],
+    "gold": [
+      {
+        "gold_source_id": "openstax_economics_3e_ch1_3",
+        "gold_page": 67,
+        "evidence_quote": "the equilibrium price in the market was less than what many of the consumers were willing to pay."
+      }
+    ],
+    "note": "Exact evidence proxy; equivalent evidence requires human verification.",
+    "strategy": "C"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "utc_time": "2026-11-13T10:36:55.695056+00:00",
+  "python": "3.11.4",
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "dimensions": 384,
+  "vector_store": "PostgreSQL + pgvector, exact cosine",
+  "strategies": {
+    "A": {
+      "chunk_count": 479,
+      "total_characters": 223616,
+      "min_chunk_length": 48,
+      "max_chunk_length": 500,
+      "ingest_seconds": 19.857,
+      "api_cost_usd": 0
+    },
+    "B": {
+      "chunk_count": 623,
+      "total_characters": 202400,
+      "min_chunk_length": 6,
+      "max_chunk_length": 500,
+      "ingest_seconds": 19.399,
+      "api_cost_usd": 0
+    },
+    "C": {
+      "chunk_count": 623,
+      "total_characters": 202400,
+      "min_chunk_length": 6,
+      "max_chunk_length": 500,
+      "ingest_seconds": 19.403,
+      "api_cost_usd": 0
+    }
+  },
+  "note": "Human coherence, metadata correctness and grounding labels must be audited separately."
+}

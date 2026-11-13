@@ -6,7 +6,7 @@ from pathlib import Path
 import psycopg
 from dotenv import load_dotenv
 
-load_dotenv(Path(__file__).resolve().parents[1] / '.env')
+load_dotenv(Path(__file__).resolve().parent / '.env')
 url = os.getenv('DATABASE_URL')
 if not url:
     sys.exit('DATABASE_URL missing: copy starter/.env.example to starter/.env first.')

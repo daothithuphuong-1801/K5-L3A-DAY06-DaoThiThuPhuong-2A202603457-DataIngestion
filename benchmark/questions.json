@@ -1,0 +1,238 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "direct",
+    "question": "How is economics defined in the textbook?",
+    "expected_answer": "Economics is the study of how humans make decisions in the face of scarcity.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 2,
+    "original_pdf_page": 26,
+    "evidence_quote": "Economics is the study of how humans make decisions in the face of scarcity."
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "What does scarcity mean in economics?",
+    "expected_answer": "Scarcity means that human wants for goods, services and resources exceed what is available.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 2,
+    "original_pdf_page": 26,
+    "evidence_quote": "Scarcity means that human wants for goods, services and resources exceed what is available."
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "conditional",
+    "question": "What contribution to the division of labor is attributed to Adam Smith?",
+    "expected_answer": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 4,
+    "original_pdf_page": 28,
+    "evidence_quote": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks."
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "direct",
+    "question": "What are economic theories based on when economists analyze issues?",
+    "expected_answer": "They analyze issues and problems using economic theories that are based on particular assumptions about human behavior.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 9,
+    "original_pdf_page": 33,
+    "evidence_quote": "They analyze issues and problems using economic theories that are based on particular assumptions about human behavior.",
+    "filter": {
+      "section": "chapter_1"
+    },
+    "filter_context": "The user requested information from chapter_1."
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "Which parts of the economy does microeconomics focus on?",
+    "expected_answer": "The microeconomic perspective focuses on parts of the economy: individuals, firms, and industries.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 17,
+    "original_pdf_page": 41,
+    "evidence_quote": "The microeconomic perspective focuses on parts of the economy: individuals, firms, and industries."
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "conditional",
+    "question": "What does opportunity cost describe?",
+    "expected_answer": "The Concept of Opportunity Cost Economists use the term opportunity cost to indicate what people must give up to obtain what they desire.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 21,
+    "original_pdf_page": 45,
+    "evidence_quote": "The Concept of Opportunity Cost Economists use the term opportunity cost to indicate what people must give up to obtain what they desire."
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "direct",
+    "question": "Does the text emphasize similarities or differences between individual and social choice?",
+    "expected_answer": "There are more similarities than differences between individual choice and social choice.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 26,
+    "original_pdf_page": 50,
+    "evidence_quote": "There are more similarities than differences between individual choice and social choice."
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "What is productive efficiency?",
+    "expected_answer": ".2 • The Production Possibilities Frontier and Social Choices 37 Productive efficiency means that, given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity that is produced of another good.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 29,
+    "original_pdf_page": 53,
+    "evidence_quote": ".2 • The Production Possibilities Frontier and Social Choices 37 Productive efficiency means that, given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity that is produced of another good."
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "conditional",
+    "question": "What type of analysis is illustrated by evaluating a subway project’s benefits and costs?",
+    "expected_answer": "If the expected benefits exceed the costs, he concludes that the project is worthy—an example of positive analysis.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 32,
+    "original_pdf_page": 56,
+    "evidence_quote": "If the expected benefits exceed the costs, he concludes that the project is worthy—an example of positive analysis."
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "direct",
+    "question": "What does allocative efficiency mean?",
+    "expected_answer": "allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 35,
+    "original_pdf_page": 59,
+    "evidence_quote": "allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that",
+    "filter": {
+      "section": "chapter_2"
+    },
+    "filter_context": "The user requested information from chapter_2."
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "What is quantity demanded?",
+    "expected_answer": "The total number of units that consumers would purchase at that price is called the quantity demanded.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 41,
+    "original_pdf_page": 65,
+    "evidence_quote": "The total number of units that consumers would purchase at that price is called the quantity demanded."
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "conditional",
+    "question": "What relationship does the law of demand describe?",
+    "expected_answer": "The downward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices and quantity demanded.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 42,
+    "original_pdf_page": 66,
+    "evidence_quote": "The downward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices and quantity demanded."
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "direct",
+    "question": "Is supply the same as quantity supplied?",
+    "expected_answer": "In economic terminology, supply is not the same as quantity supplied.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 43,
+    "original_pdf_page": 67,
+    "evidence_quote": "In economic terminology, supply is not the same as quantity supplied."
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "What happens to quantity demanded and supplied in a shortage?",
+    "expected_answer": "4 3 • Demand and Supply When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which has been depressed by the lower price.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 46,
+    "original_pdf_page": 70,
+    "evidence_quote": "4 3 • Demand and Supply When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which has been depressed by the lower price."
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "conditional",
+    "question": "What happens to demand for an inferior good when income increases?",
+    "expected_answer": "A product whose demand falls when income rises, and vice versa, is called an inferior good.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 49,
+    "original_pdf_page": 73,
+    "evidence_quote": "A product whose demand falls when income rises, and vice versa, is called an inferior good."
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "direct",
+    "question": "How do lower production costs affect the supply curve?",
+    "expected_answer": "When costs of production fall, a firm will tend to supply a larger quantity at any given price for its output.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 52,
+    "original_pdf_page": 76,
+    "evidence_quote": "When costs of production fall, a firm will tend to supply a larger quantity at any given price for its output."
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "paraphrase",
+    "question": "What is the first step in the four-step equilibrium analysis?",
+    "expected_answer": "Step 1. Draw a demand and supply model before the economic change took place.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 56,
+    "original_pdf_page": 80,
+    "evidence_quote": "Step 1. Draw a demand and supply model before the economic change took place.",
+    "filter": {
+      "section": "chapter_3"
+    },
+    "filter_context": "The user requested information from chapter_3."
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "conditional",
+    "question": "How does the textbook define a price ceiling?",
+    "expected_answer": "price ceiling is a legal maximum price that one pays for some good or service.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 63,
+    "original_pdf_page": 87,
+    "evidence_quote": "price ceiling is a legal maximum price that one pays for some good or service."
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "direct",
+    "question": "What is a price floor?",
+    "expected_answer": "Price Floors A price floor is the lowest price that one can legally pay for some good or service.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 65,
+    "original_pdf_page": 89,
+    "evidence_quote": "Price Floors A price floor is the lowest price that one can legally pay for some good or service.",
+    "filter": {
+      "section": "chapter_3"
+    },
+    "filter_context": "The user requested information from chapter_3."
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "paraphrase",
+    "question": "What does consumer surplus indicate about equilibrium price and willingness to pay?",
+    "expected_answer": "the equilibrium price in the market was less than what many of the consumers were willing to pay.",
+    "gold_source_id": "openstax_economics_3e_ch1_3",
+    "gold_page": 67,
+    "original_pdf_page": 91,
+    "evidence_quote": "the equilibrium price in the market was less than what many of the consumers were willing to pay."
+  }
+]
